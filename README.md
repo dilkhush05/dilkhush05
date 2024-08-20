@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave"
-        width="30" /> I'm [Dilkhush](https://github.com/dilkhush05)</h1>
+        width="30" /> I'm <a href="https://github.com/dilkhush05">Dilkhush</a> </h1>
 <h3 align="center">Second-year Information Technology student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dilkhush05&label=Profile%20views&color=0e75b6&style=flat"
@@ -9,8 +9,9 @@
 
 - 🌱 I’m currently learning ****everything.****
 
-- 👨‍💻 All of my projects are available at
-[https://www.linkedin.com/in/dilkhush-thakur-a9b367255/](https://www.linkedin.com/in/dilkhush-thakur-a9b367255/)
+
+- 👨‍💻 All of my projects are available at <a
+    href="https://www.linkedin.com/in/dilkhush-thakur-a9b367255/" >This</a>
 
 - 💬 Ask me about ****anything, I am happy to help.****
 
