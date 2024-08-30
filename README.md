@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave"
         width="30" /> I'm <a href="https://github.com/dilkhush05">Dilkhush</a> </h1>
 <h3 align="center">Second-year Information Technology student</h3><img align="right" width="400px"
-    src="[https://camo.githubusercontent.com/5a40be99b5384a02b2ea628ca7b699d350ffef54b234f5bd09639a3f761c077d/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966](https://www.google.com/search?sca_esv=e286eb43f4ef8551&sca_upv=1&sxsrf=ADLYWIIqk4GSgNHxvESHEOcVt2q08a4Zqw:1725041987241&q=3d+animated+pic+for+github+profile&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Nu5UXlEfGU2YX1CrW9Nmm9Q3JIJZUqyMsLxos5tPU_UnqJUBrgTTZdMQfghyy8PpT_cHSYt6LsMld2_XK7XZstHHUm7NbU1iDBvtcjuK_h_kqH6Dwz8lr4DOT4zoV4UNRTZJRLFWSjCZObIUJtMtWYlk3wsZc9KkGx3R7G_Sq--ZicncbQ&sa=X&ved=2ahUKEwjy3_yWqp2IAxUmd_UHHZvlEGcQtKgLegQIEBAB&biw=1536&bih=703&dpr=1.25#imgrc=34iKCi8Ga1IQ1M&imgdii=TU6M-pr48V2rEM)"
+    src="https://www.google.com/search?sca_esv=e286eb43f4ef8551&sca_upv=1&sxsrf=ADLYWIIqk4GSgNHxvESHEOcVt2q08a4Zqw:1725041987241&q=3d+animated+pic+for+github+profile&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Nu5UXlEfGU2YX1CrW9Nmm9Q3JIJZUqyMsLxos5tPU_UnqJUBrgTTZdMQfghyy8PpT_cHSYt6LsMld2_XK7XZstHHUm7NbU1iDBvtcjuK_h_kqH6Dwz8lr4DOT4zoV4UNRTZJRLFWSjCZObIUJtMtWYlk3wsZc9KkGx3R7G_Sq--ZicncbQ&sa=X&ved=2ahUKEwjy3_yWqp2IAxUmd_UHHZvlEGcQtKgLegQIEBAB&biw=1536&bih=703&dpr=1.25#imgrc=34iKCi8Ga1IQ1M&imgdii=TU6M-pr48V2rEM"
     alt="Coding">
 
 
