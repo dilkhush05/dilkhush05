@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="hand wave"
         width="30" /> I'm <a href="https://github.com/dilkhush05">Dilkhush</a> </h1>
-<h3 align="center">Second-year Information Technology student</h3><img align="right" width="400px"
+<h3 align="center">Final-Year Information Technology student</h3><img align="right" width="400px"
     src="https://www.google.com/search?sca_esv=e286eb43f4ef8551&sca_upv=1&sxsrf=ADLYWIIqk4GSgNHxvESHEOcVt2q08a4Zqw:1725041987241&q=3d+animated+pic+for+github+profile&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Nu5UXlEfGU2YX1CrW9Nmm9Q3JIJZUqyMsLxos5tPU_UnqJUBrgTTZdMQfghyy8PpT_cHSYt6LsMld2_XK7XZstHHUm7NbU1iDBvtcjuK_h_kqH6Dwz8lr4DOT4zoV4UNRTZJRLFWSjCZObIUJtMtWYlk3wsZc9KkGx3R7G_Sq--ZicncbQ&sa=X&ved=2ahUKEwjy3_yWqp2IAxUmd_UHHZvlEGcQtKgLegQIEBAB&biw=1536&bih=703&dpr=1.25#imgrc=34iKCi8Ga1IQ1M&imgdii=TU6M-pr48V2rEM"
     alt="Coding">
 
